@@ -1,0 +1,9 @@
+food,calories,protein,type,budget
+roti,70,3,veg,low
+rice,130,2,veg,low
+dal,180,9,veg,low
+curd,100,6,veg,low
+paneer,260,18,veg,medium
+eggs,155,13,non-veg,low
+chicken,240,27,non-veg,medium
+fish,200,22,non-veg,medium
